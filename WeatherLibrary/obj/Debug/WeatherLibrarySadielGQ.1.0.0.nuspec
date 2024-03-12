@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WeatherLibrarySadielGQ</id>
+    <version>1.0.0</version>
+    <authors>SadielGQ</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Sadiel WeatherLibrary</description>
+    <releaseNotes>este es el primer</releaseNotes>
+    <tags>sadiel WeatherLibrary</tags>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sadie\source\repos\WeatherNuGet\WeatherLibrary\bin\Debug\net5.0\WeatherLibrary.dll" target="lib\net5.0\WeatherLibrary.dll" />
+  </files>
+</package>

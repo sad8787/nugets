@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>WeatherLibraryBySadiel</RootNamespace>
+    <Company>Sadiel</Company>
+    <Description>Sadiel WeatherLibrary</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>WeatherLibrarySadielGQ</PackageId>
+    <Authors>SadielGQ</Authors>
+    <PackageTags>sadiel WeatherLibrary</PackageTags>
+    <PackageReleaseNotes>este es el primer</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

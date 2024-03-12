@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj",
+        "projectName": "WeatherLibrarySadielGQ",
+        "projectPath": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj",
+        "packagesPath": "C:\\Users\\sadie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sadie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/sad8787/nugets": {},
+          "https://github.com/sad8787/nugets/blob/f5c8a5fc39bcfb7c8e33241e99813925266e23c7/WeatherLibrarySadielGQ.1.0.0.nupkg": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
