@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tg5k7Zn0fPz5ZvJzQ6pvtQst7Kh8j5+00iDOaO/+4yO62Dla3qJ5QdLZPzXqDIVg/kqSDExNcARguDQaJUc5kw==",
+  "dgSpecHash": "Gk3vaT6o0G2Kq6x4AG3I/yyJSGrHMZKeH7PYMWK0YOIlPsPgEDpx8/oH3RQlKXnir3T5boPHFBbp7ZCtlTSjXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj",
+  "projectFilePath": "C:\\repository\\nugets\\WeatherLibrary\\WeatherLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

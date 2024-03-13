@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj": {}
+    "C:\\repository\\nugets\\WeatherLibrary\\WeatherLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj": {
+    "C:\\repository\\nugets\\WeatherLibrary\\WeatherLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj",
+        "projectUniqueName": "C:\\repository\\nugets\\WeatherLibrary\\WeatherLibrary.csproj",
         "projectName": "WeatherLibrarySadielGQ",
-        "projectPath": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\WeatherLibrary.csproj",
+        "projectPath": "C:\\repository\\nugets\\WeatherLibrary\\WeatherLibrary.csproj",
         "packagesPath": "C:\\Users\\sadie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadie\\source\\repos\\WeatherNuGet\\WeatherLibrary\\obj\\",
+        "outputPath": "C:\\repository\\nugets\\WeatherLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
